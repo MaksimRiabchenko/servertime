@@ -1,0 +1,24 @@
+{
+    "name": "maksimriabchenko/servertime",
+    "description": "Current DateTime for server ip based on https://worldtimeapi.org",
+    "require-dev": {
+        "phpunit/phpunit": "^12.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Maksimriabchenko\\Servertime\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Maksimriabchenko\\Servertime\\Tests\\": "tests/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Maksim Riabchenko",
+            "email": "maksimriabchenko@gmail.com"
+        }
+    ],
+    "require": {}
+}
