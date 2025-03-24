@@ -1,6 +1,7 @@
 {
     "name": "maksimriabchenko/servertime",
     "description": "Current DateTime for server ip based on https://worldtimeapi.org",
+    "license": "MIT",
     "require-dev": {
         "phpunit/phpunit": "^12.0"
     },
